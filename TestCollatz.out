@@ -22,7 +22,6 @@ Running main() from gtest_main.cc
 [ RUN      ] CollatzFixture.solve
 [       OK ] CollatzFixture.solve (7 ms)
 [----------] 7 tests from CollatzFixture (38 ms total)
-
 [----------] Global test environment tear-down
 [==========] 7 tests from 1 test case ran. (63 ms total)
 [  PASSED  ] 7 tests.
